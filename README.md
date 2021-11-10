@@ -1,2 +1,2 @@
 # git-lesson
-githuo
+githup
